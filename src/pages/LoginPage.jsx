@@ -22,7 +22,7 @@ const LoginPage = () => {
         setTimeout(() => {
             const success = login(username, password);
             if (success) {
-                navigate("/dashboard");
+                navigate("/");
             } else {
                 setError("Invalid credentials");
             }

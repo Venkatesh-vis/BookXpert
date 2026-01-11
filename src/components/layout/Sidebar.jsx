@@ -23,7 +23,7 @@ const Sidebar = ({ onClose }) => {
 
             <nav className="flex-1 p-4">
                 <NavLink
-                    to="/dashboard"
+                    to="/"
                     className={linkClass}
                     onClick={onClose}
                 >
