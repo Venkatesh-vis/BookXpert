@@ -1,0 +1,364 @@
+{
+    "employees": [
+        {
+            "employeeId": "EMP001",
+            "profileImage": "https://i.pravatar.cc/150?img=1",
+            "fullName": "Ravi Kumar",
+            "gender": "male",
+            "dob": "1996-08-14",
+            "state": "Karnataka",
+            "isActive": true
+        },
+        {
+            "employeeId": "EMP002",
+            "profileImage": "https://i.pravatar.cc/150?img=2",
+            "fullName": "Anita Sharma",
+            "gender": "female",
+            "dob": "1994-03-22",
+            "state": "Maharashtra",
+            "isActive": false
+        },
+        {
+            "employeeId": "EMP003",
+            "profileImage": "https://i.pravatar.cc/150?img=3",
+            "fullName": "Vikram Singh",
+            "gender": "male",
+            "dob": "1992-11-05",
+            "state": "Rajasthan",
+            "isActive": true
+        },
+        {
+            "employeeId": "EMP004",
+            "profileImage": "https://i.pravatar.cc/150?img=4",
+            "fullName": "Priya Nair",
+            "gender": "female",
+            "dob": "1995-01-18",
+            "state": "Kerala",
+            "isActive": true
+        },
+        {
+            "employeeId": "EMP005",
+            "profileImage": "https://i.pravatar.cc/150?img=5",
+            "fullName": "Amit Verma",
+            "gender": "male",
+            "dob": "1990-06-30",
+            "state": "Delhi",
+            "isActive": false
+        },
+        {
+            "employeeId": "EMP006",
+            "profileImage": "https://i.pravatar.cc/150?img=6",
+            "fullName": "Sneha Patil",
+            "gender": "female",
+            "dob": "1997-09-12",
+            "state": "Maharashtra",
+            "isActive": true
+        },
+        {
+            "employeeId": "EMP007",
+            "profileImage": "https://i.pravatar.cc/150?img=7",
+            "fullName": "Rahul Mehta",
+            "gender": "male",
+            "dob": "1993-04-09",
+            "state": "Gujarat",
+            "isActive": true
+        },
+        {
+            "employeeId": "EMP008",
+            "profileImage": "https://i.pravatar.cc/150?img=8",
+            "fullName": "Neha Kapoor",
+            "gender": "female",
+            "dob": "1991-12-21",
+            "state": "Punjab",
+            "isActive": false
+        },
+        {
+            "employeeId": "EMP009",
+            "profileImage": "https://i.pravatar.cc/150?img=9",
+            "fullName": "Suresh Reddy",
+            "gender": "male",
+            "dob": "1989-07-11",
+            "state": "Telangana",
+            "isActive": true
+        },
+        {
+            "employeeId": "EMP010",
+            "profileImage": "https://i.pravatar.cc/150?img=10",
+            "fullName": "Kavya Iyer",
+            "gender": "female",
+            "dob": "1996-03-03",
+            "state": "Tamil Nadu",
+            "isActive": true
+        },
+        {
+            "employeeId": "EMP011",
+            "profileImage": "https://i.pravatar.cc/150?img=11",
+            "fullName": "Arjun Malhotra",
+            "gender": "male",
+            "dob": "1992-08-25",
+            "state": "Haryana",
+            "isActive": true
+        },
+        {
+            "employeeId": "EMP012",
+            "profileImage": "https://i.pravatar.cc/150?img=12",
+            "fullName": "Pooja Choudhary",
+            "gender": "female",
+            "dob": "1995-10-10",
+            "state": "Uttar Pradesh",
+            "isActive": false
+        },
+        {
+            "employeeId": "EMP013",
+            "profileImage": "https://i.pravatar.cc/150?img=13",
+            "fullName": "Nikhil Jain",
+            "gender": "male",
+            "dob": "1994-02-14",
+            "state": "Madhya Pradesh",
+            "isActive": true
+        },
+        {
+            "employeeId": "EMP014",
+            "profileImage": "https://i.pravatar.cc/150?img=14",
+            "fullName": "Ritu Saxena",
+            "gender": "female",
+            "dob": "1993-05-19",
+            "state": "Uttarakhand",
+            "isActive": true
+        },
+        {
+            "employeeId": "EMP015",
+            "profileImage": "https://i.pravatar.cc/150?img=15",
+            "fullName": "Manoj Yadav",
+            "gender": "male",
+            "dob": "1988-09-01",
+            "state": "Bihar",
+            "isActive": false
+        },
+        {
+            "employeeId": "EMP016",
+            "profileImage": "https://i.pravatar.cc/150?img=16",
+            "fullName": "Divya Agarwal",
+            "gender": "female",
+            "dob": "1997-06-07",
+            "state": "West Bengal",
+            "isActive": true
+        },
+        {
+            "employeeId": "EMP017",
+            "profileImage": "https://i.pravatar.cc/150?img=17",
+            "fullName": "Kunal Bansal",
+            "gender": "male",
+            "dob": "1991-01-27",
+            "state": "Chandigarh",
+            "isActive": true
+        },
+        {
+            "employeeId": "EMP018",
+            "profileImage": "https://i.pravatar.cc/150?img=18",
+            "fullName": "Meena Joshi",
+            "gender": "female",
+            "dob": "1990-11-16",
+            "state": "Himachal Pradesh",
+            "isActive": false
+        },
+        {
+            "employeeId": "EMP019",
+            "profileImage": "https://i.pravatar.cc/150?img=19",
+            "fullName": "Rohit Kulkarni",
+            "gender": "male",
+            "dob": "1995-04-04",
+            "state": "Maharashtra",
+            "isActive": true
+        },
+        {
+            "employeeId": "EMP020",
+            "profileImage": "https://i.pravatar.cc/150?img=20",
+            "fullName": "Shalini Mishra",
+            "gender": "female",
+            "dob": "1992-12-08",
+            "state": "Uttar Pradesh",
+            "isActive": true
+        },
+        {
+            "employeeId": "EMP021",
+            "profileImage": "https://i.pravatar.cc/150?img=21",
+            "fullName": "Deepak Chauhan",
+            "gender": "male",
+            "dob": "1989-03-15",
+            "state": "Haryana",
+            "isActive": false
+        },
+        {
+            "employeeId": "EMP022",
+            "profileImage": "https://i.pravatar.cc/150?img=22",
+            "fullName": "Aishwarya Rao",
+            "gender": "female",
+            "dob": "1996-07-29",
+            "state": "Karnataka",
+            "isActive": true
+        },
+        {
+            "employeeId": "EMP023",
+            "profileImage": "https://i.pravatar.cc/150?img=23",
+            "fullName": "Sandeep Das",
+            "gender": "male",
+            "dob": "1991-10-02",
+            "state": "Odisha",
+            "isActive": true
+        },
+        {
+            "employeeId": "EMP024",
+            "profileImage": "https://i.pravatar.cc/150?img=24",
+            "fullName": "Nandini Gupta",
+            "gender": "female",
+            "dob": "1994-06-18",
+            "state": "Delhi",
+            "isActive": false
+        },
+        {
+            "employeeId": "EMP025",
+            "profileImage": "https://i.pravatar.cc/150?img=25",
+            "fullName": "Harish Pillai",
+            "gender": "male",
+            "dob": "1987-02-11",
+            "state": "Kerala",
+            "isActive": true
+        },
+        {
+            "employeeId": "EMP026",
+            "profileImage": "https://i.pravatar.cc/150?img=26",
+            "fullName": "Swati Deshpande",
+            "gender": "female",
+            "dob": "1995-09-05",
+            "state": "Maharashtra",
+            "isActive": true
+        },
+        {
+            "employeeId": "EMP027",
+            "profileImage": "https://i.pravatar.cc/150?img=27",
+            "fullName": "Akash Pandey",
+            "gender": "male",
+            "dob": "1993-01-09",
+            "state": "Chhattisgarh",
+            "isActive": false
+        },
+        {
+            "employeeId": "EMP028",
+            "profileImage": "https://i.pravatar.cc/150?img=28",
+            "fullName": "Pallavi Kulkarni",
+            "gender": "female",
+            "dob": "1992-05-23",
+            "state": "Goa",
+            "isActive": true
+        },
+        {
+            "employeeId": "EMP029",
+            "profileImage": "https://i.pravatar.cc/150?img=29",
+            "fullName": "Rakesh Thakur",
+            "gender": "male",
+            "dob": "1988-08-30",
+            "state": "Jharkhand",
+            "isActive": true
+        },
+        {
+            "employeeId": "EMP030",
+            "profileImage": "https://i.pravatar.cc/150?img=30",
+            "fullName": "Ishita Banerjee",
+            "gender": "female",
+            "dob": "1996-11-14",
+            "state": "West Bengal",
+            "isActive": false
+        },
+        {
+            "employeeId": "EMP031",
+            "profileImage": "https://i.pravatar.cc/150?img=31",
+            "fullName": "Anil Khatri",
+            "gender": "male",
+            "dob": "1990-04-01",
+            "state": "Rajasthan",
+            "isActive": true
+        },
+        {
+            "employeeId": "EMP032",
+            "profileImage": "https://i.pravatar.cc/150?img=32",
+            "fullName": "Rekha Menon",
+            "gender": "female",
+            "dob": "1989-12-19",
+            "state": "Kerala",
+            "isActive": true
+        },
+        {
+            "employeeId": "EMP033",
+            "profileImage": "https://i.pravatar.cc/150?img=33",
+            "fullName": "Sahil Arora",
+            "gender": "male",
+            "dob": "1994-07-07",
+            "state": "Delhi",
+            "isActive": false
+        },
+        {
+            "employeeId": "EMP034",
+            "profileImage": "https://i.pravatar.cc/150?img=34",
+            "fullName": "Monika Sood",
+            "gender": "female",
+            "dob": "1993-09-26",
+            "state": "Jammu & Kashmir",
+            "isActive": true
+        },
+        {
+            "employeeId": "EMP035",
+            "profileImage": "https://i.pravatar.cc/150?img=35",
+            "fullName": "Prakash Nayak",
+            "gender": "male",
+            "dob": "1987-05-12",
+            "state": "Odisha",
+            "isActive": true
+        },
+        {
+            "employeeId": "EMP036",
+            "profileImage": "https://i.pravatar.cc/150?img=36",
+            "fullName": "Tanvi Shah",
+            "gender": "female",
+            "dob": "1995-02-28",
+            "state": "Gujarat",
+            "isActive": false
+        },
+        {
+            "employeeId": "EMP037",
+            "profileImage": "https://i.pravatar.cc/150?img=37",
+            "fullName": "Naveen Shetty",
+            "gender": "male",
+            "dob": "1991-06-16",
+            "state": "Karnataka",
+            "isActive": true
+        },
+        {
+            "employeeId": "EMP038",
+            "profileImage": "https://i.pravatar.cc/150?img=38",
+            "fullName": "Rashmi Kulkarni",
+            "gender": "female",
+            "dob": "1994-10-03",
+            "state": "Maharashtra",
+            "isActive": true
+        },
+        {
+            "employeeId": "EMP039",
+            "profileImage": "https://i.pravatar.cc/150?img=39",
+            "fullName": "Vivek Tiwari",
+            "gender": "male",
+            "dob": "1989-01-20",
+            "state": "Uttar Pradesh",
+            "isActive": false
+        },
+        {
+            "employeeId": "EMP040",
+            "profileImage": "https://i.pravatar.cc/150?img=40",
+            "fullName": "Shreya Sengupta",
+            "gender": "female",
+            "dob": "1996-08-08",
+            "state": "West Bengal",
+            "isActive": true
+        }
+    ]
+}
