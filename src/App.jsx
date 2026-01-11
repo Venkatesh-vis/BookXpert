@@ -3,8 +3,8 @@ import ProtectedRoute from "./routes/ProtectedRoute";
 import AppLayout from "./components/layout/AppLayout";
 import LoginPage from "./pages/LoginPage";
 import DashboardPage from "./pages/DashboardPage";
-import EmployeesPage from "./Pages/EmployeesPage.jsx";
-import SettingsPage from "./Pages/Settings.jsx";
+import EmployeesPage from "./pages/EmployeesPage.jsx";
+import SettingsPage from "./pages/Settings.jsx";
 
 
 const App = () => (
